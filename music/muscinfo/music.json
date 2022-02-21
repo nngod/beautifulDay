@@ -1,0 +1,99 @@
+[
+    {
+        "name":"k歌之王",
+        "singer":"陈奕迅",
+        "sing_zhuanji":"打得火热",
+        "time":"03:41",
+        "link_url":"./muscinfo/music/陈奕迅 - K歌之王 (粤语版).flac",
+        "sing_img": "./img/k歌之王.jpg",
+        "lyric":"./muscinfo/lyric/k歌之王.lrc"
+        
+    },
+
+    {
+        "name":"说好不哭",
+        "singer":"周杰伦/五月天阿信",
+        "sing_zhuanji":"说好不哭",
+        "time":"03:42",
+        "link_url":"./muscinfo/music/周杰伦 - 说好不哭.flac",
+        "sing_img": "./img/说好不哭.jpg",
+        "lyric":"./muscinfo/lyric/说好不哭.lrc"
+        
+    },
+
+    {
+        "name":"天外来物",
+        "singer":"薛之谦",
+        "sing_zhuanji":"天外来物",
+        "time":"04:17",
+        "link_url":"./muscinfo/music/薛之谦 - 天外来物.mp3",
+        "sing_img": "./img/天外之物.jpg",
+        "lyric":"./muscinfo/lyric/天外来物.lrc"
+        
+        
+    },
+    {
+        "name":"等你下课",
+        "singer":"周杰伦",
+        "sing_zhuanji":"等你下课",
+        "time":"04:30",
+        "link_url":"./muscinfo/music/等你下课.flac",
+        "sing_img": "./img/等你下课.jpg",
+        "lyric":"./muscinfo/lyric/等你下课.lrc"
+        
+    },
+    
+     {
+        "name":"告白气球",
+        "singer":"周杰伦",
+        "sing_zhuanji":"周杰伦床边故事",
+        "time":"03:35",
+        "link_url":"./muscinfo/music/周杰伦 - 告白气球.flac",
+        "sing_img": "./img/告白气球.jpg",
+        "lyric":"./muscinfo/lyric/告白气球.lrc"
+        
+    },
+
+    {
+        "name":"晴天",
+        "singer":"周杰伦",
+        "sing_zhuanji":"叶惠美",
+        "time":"04:29",
+        "link_url":"./muscinfo/music/周杰伦 - 晴天.flac",
+        "sing_img": "./img/晴天.jpg",
+        "lyric":"./muscinfo/lyric/晴天.lrc"
+        
+    },
+
+    {
+        "name":"一路向北",
+        "singer":"周杰伦",
+        "sing_zhuanji":"J III MP3 Player",
+        "time":"04:55",
+        "link_url":"./muscinfo/music/周杰伦 - 一路向北.flac",
+        "sing_img": "./img/一路向北.jpg",
+        "lyric":"./muscinfo/lyric/一路向北.lrc"
+        
+    },
+
+    {
+        "name":"够钟",
+        "singer":"周柏豪",
+        "sing_zhuanji":"Follow",
+        "time":"03:48",
+        "link_url":"./muscinfo/music/周柏豪 - 够钟.flac",
+        "sing_img": "./img/够钟.jpg",
+        "lyric":"./muscinfo/lyric/够钟.lrc"
+        
+    }
+
+
+  
+
+
+   
+
+
+
+
+]
