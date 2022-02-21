@@ -1,0 +1,202 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-size: 14px;
+}
+li {
+  list-style: none;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+.w {
+  width: 1240px;
+  margin: auto;
+}
+.denglu_head #a1 {
+  margin: 15px 15px;
+  display: block;
+  width: 200px;
+  height: 60px;
+}
+.denglu_head #img {
+  float: left;
+  width: 49px;
+  height: 49px;
+  padding: 5.5px 3px;
+  background: url(../img/mi-logo.png) #ff6700 no-repeat;
+  background-position: center center;
+}
+.denglu_head h1,
+h5 {
+  color: black;
+  font-size: 18px;
+  float: left;
+  margin-left: 5px;
+}
+.denglu_head h5 {
+  color: #cccc;
+}
+.denglu_banxin {
+  position: relative;
+  width: 100%;
+  height: 588px;
+  background: url(../img/img1.jpg) no-repeat center top;
+}
+.denglu_banxin .denglujiemian {
+  position: absolute;
+  right: 10%;
+  top: 48px;
+  width: 360px;
+  height: 500px;
+  background: #fff;
+  padding: 20px 25px;
+}
+/* .denglujiemian .denglujiemian_head {
+	width: 500px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+} */
+.denglujiemian .denglujiemian_head span {
+  display: block;
+  font-size: 20px;
+  float: left;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.denglujiemian .denglujiemian_banxin #text {
+  width: 330px;
+  height: 45px;
+  border: 1px solid #ccc;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 10px;
+}
+.denglujiemian .denglujiemian_banxin #password {
+  width: 330px;
+  height: 45px;
+  border: 1px solid #ccc;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 10px;
+}
+.denglujiemian .denglujiemian_banxin button {
+  outline: none;
+  width: 340px;
+  height: 45px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background: #ff6700;
+  border: 0px;
+}
+.denglujiemian .denglujiemian_banxin button:hover {
+  cursor: pointer;
+}
+.denglujiemian .denglujiemian_banxin a {
+  display: block;
+  float: left;
+  margin-left: 10px;
+  color: #ff6700;
+}
+.denglujiemian .denglujiemian_banxin #a {
+  float: right;
+}
+.denglujiemian .denglujiemian_banxin #a a:hover {
+  color: #ff6700 !important;
+}
+
+.denglujiemian .denglujiemian_banxin #a span {
+  float: left;
+  margin-left: 10px;
+  color: #cccccc;
+}
+.denglujiemian .denglujiemian_banxin .end_head {
+  position: relative;
+  margin-top: 100px;
+  font-size: 15px;
+  color: #cccccc;
+}
+.denglujiemian .denglujiemian_banxin .end_head span {
+  position: absolute;
+  top: -10px;
+}
+.end_head .div1 {
+  width: 135px;
+  float: left;
+}
+.end_head .div2 {
+  width: 135px;
+  float: right;
+}
+.xiaotubiao {
+  /* 	width: 250px; */
+  position: absolute;
+  top: 400px;
+  left: 50%;
+  margin-left: -100px;
+  margin-top: 40px;
+  width: 180px;
+  height: 40px;
+}
+.xiaotubiao a {
+  /* margin-top: 20px; */
+  display: block;
+  width: 20px;
+  /* margin-left: 20px; */
+  margin-right: 10px;
+  height: 22px;
+  float: left;
+}
+.xiaotubiao #img1 {
+  background: url(../img/icons_type.png) no-repeat -18px 0px;
+  background-color: #0288d1;
+  border: 5px solid #0288d1;
+  border-radius: 50%;
+  /* margin-left: 10px; */
+}
+.xiaotubiao #img2 {
+  background: url(../img/icons_type.png) no-repeat -36.5px 0px;
+  background-color: #d32f2f;
+  border: 5px solid #d32f2f;
+  border-radius: 50%;
+}
+.xiaotubiao #img3 {
+  background: url(../img/icons_type.png) no-repeat -58px 0px;
+  background-color: #00aaee;
+  border: 5px solid #00aaee;
+  border-radius: 50%;
+}
+.xiaotubiao #img4 {
+  position: absolute;
+  top: 0px;
+  right: -20px;
+  background: url(../img/icons_type.png) no-repeat -84.5px 0px;
+  background-color: #00d20d;
+  border: 5px solid #00d20d;
+  border-radius: 50%;
+  float: right;
+}
+.smdl1 {
+  display: none;
+}
+.smdl1 .ewm {
+  position: absolute;
+  top: 250px;
+  right: 50%;
+  margin-right: -90px;
+}
+.smdl1 .wenzi {
+  position: absolute;
+  bottom: 50px;
+}

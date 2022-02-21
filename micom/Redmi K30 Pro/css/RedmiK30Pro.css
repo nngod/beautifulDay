@@ -1,0 +1,249 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+li {
+  list-style: none;
+}
+.total {
+  width: 1240px;
+  height: 1000px;
+  background: #fff;
+  margin: auto;
+}
+.l_banxin {
+  position: relative;
+  width: 560px;
+  height: 560px;
+  float: left;
+  overflow: hidden;
+}
+.l_banxin img {
+  width: 560px;
+  height: 560px;
+}
+.l_banxin .prior {
+  position: absolute;
+  top: 50%;
+  margin-top: -34.5px;
+  left: 10px;
+  width: 41.5px;
+  height: 69px;
+  background: url(../img/img6.png) no-repeat -84px 0px;
+}
+.l_banxin .next {
+  position: absolute;
+  top: 50%;
+  margin-top: -34.5px;
+  right: 10px;
+  width: 41.5px;
+  height: 69px;
+  background: url(../img/img6.png) no-repeat -125px 0px;
+}
+.l_banxin ul {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  margin-left: -55px;
+  width: 110px;
+  height: 10px;
+  line-height: 10px;
+}
+.l_banxin ul li {
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.2);
+  float: left;
+}
+.l_banxin .li {
+  background: white;
+}
+.l_banxin .next:hover {
+  cursor: pointer;
+  background: url(../img/img6.png) no-repeat -41px 0px;
+}
+.l_banxin .prior:hover {
+  cursor: pointer;
+  background: url(../img/img6.png) no-repeat 0px 0px;
+}
+.l_banxin ul li:hover {
+  cursor: pointer;
+  background: white;
+}
+.r_banxin {
+  width: 680px;
+  float: right;
+  margin-bottom: 10px;
+  position: relative;
+}
+.r_banxin h2 {
+  /* width: 680px; */
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.r_banxin #span1 {
+  display: block;
+  color: #ff6700;
+  margin-bottom: 5px;
+}
+
+.position {
+  position: absolute;
+  top: 230px;
+  width: 640px;
+  height: 50px;
+  border: 1px solid #e0e0e0;
+  background: #fafafa;
+  padding: 20px;
+}
+.position img {
+  position: absolute;
+  top: 31px;
+}
+#span2 {
+  position: absolute;
+  top: 35px;
+  left: 50px;
+}
+
+.price {
+  margin-top: 200px;
+}
+.peizhi {
+  margin-top: 20px;
+  width: 680px;
+}
+
+.peizhi #peizhi1 {
+  float: left;
+  width: 333px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #ff6700;
+  color: #ff6700;
+  margin-right: 10px;
+}
+.peizhi #peizhi2 {
+  float: left;
+  width: 333px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #cccccc;
+}
+
+.peizhi #peizhi3 {
+  margin-top: 10px;
+  float: left;
+  width: 333px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #cccccc;
+}
+.peizhi #peizhi1:hover {
+  cursor: pointer;
+}
+
+.peizhi #peizhi2:hover {
+  cursor: pointer;
+}
+
+.peizhi #peizhi3:hover {
+  cursor: pointer;
+}
+
+.Mobilephonecolor {
+  margin-top: 150px;
+}
+
+.Mobilephonecolor h4 {
+  margin-bottom: 20px;
+}
+
+.Mobilephonecolor #color1 {
+  float: left;
+  width: 333px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #ff6700;
+  color: #ff6700;
+  margin-right: 10px;
+}
+
+.Mobilephonecolor #color2 {
+  float: left;
+  width: 333px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #cccccc;
+}
+
+.Mobilephonecolor #color3 {
+  margin-top: 10px;
+  float: left;
+  width: 333px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #cccccc;
+  margin-right: 10px;
+}
+
+.Mobilephonecolor #color4 {
+  margin-top: 10px;
+  float: left;
+  width: 333px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #cccccc;
+}
+
+#color1:hover,
+#color2:hover,
+#color3:hover,
+#color4:hover {
+  cursor: pointer;
+}
+
+.shopping {
+  margin-top: 150px;
+  widows: 638px;
+  height: 80px;
+  padding: 20px;
+  border: 1px solid #fafafa;
+  background: #fafafa;
+}
+.shopping #jg,
+#del1 {
+  float: right;
+}
+.btn {
+  margin-top: 20px;
+  outline: none;
+  width: 300px;
+  height: 50px;
+  border: 0px;
+  border: 1px solid #ff6700;
+  background: #ff6700;
+  color: white;
+}
+.btn:hover {
+  cursor: pointer;
+  background: #f25807;
+  border: 1px solid #ff6700;
+}
